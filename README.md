@@ -198,7 +198,7 @@ Check your microphone, internet connection, and the availability of any required
 | Source Code | GitHub |
 
 **Repository:**  
-https://github.com/sohan-dev-0/Zecy
+https://github.com/sohan-dev-0/Zecy-AI
 
 **Latest Release:**  
 https://github.com/sohan-dev-0/Zecy/releases/latest
